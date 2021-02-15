@@ -40,7 +40,6 @@ A powerful Node.JS module that lets you interact with the Roblox Web API easily,
 Bloxy has 5 dependencies:
 
 - [**got**](https://www.npmjs.com/package/got) - To handle the HTTP requests (bloxy allows your own)
-- [**lodash**](https://www.npmjs.com/package/lodash) - For various purposes
 - [**signalr-client**](https://www.npmjs.com/package/signalr-client) - To connect with the WebSocket endpoints
 - [**tough-cookie**](https://npmjs.com/package/tough-cookie) - For everything cookie-related
 - [**tslib**](https://npmjs.com/package/tslib) Necessary with built TypeScript projects :)
@@ -60,7 +59,7 @@ To be able to use bloxy, here's what you need to know:
 Installing bloxy is easy! Simply enter the following command, and you should be good to go👍
 
 ```
-npm install bloxy --save
+npm i bloxy
 ```
 
 Installing the dependencies may take longer!
