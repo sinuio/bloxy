@@ -37,7 +37,7 @@ A powerful Node.JS module that lets you interact with the Roblox Web API easily,
 
 ## Getting Started
 
-Bloxy has 5 dependencies:
+Bloxy has 4 dependencies:
 
 - [**got**](https://www.npmjs.com/package/got) - To handle the HTTP requests (bloxy allows your own)
 - [**signalr-client**](https://www.npmjs.com/package/signalr-client) - To connect with the WebSocket endpoints
